@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353714448499",
+    "project_id": "gp-plant-detection-project",
+    "storage_bucket": "gp-plant-detection-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353714448499:android:861f15ec8b9e1daf00a206",
+        "android_client_info": {
+          "package_name": "com.example.plant_infection_recognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUVdMjo_n8WRT0WsoqEc9v9RvqrTedEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
